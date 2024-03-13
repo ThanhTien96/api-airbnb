@@ -1,0 +1,7 @@
+version = 1
+user = "postgres"
+password = "admin"
+host = "0.0.0.0"
+port = 5432
+dbname = "airbnb"
+sslmode="disable"
